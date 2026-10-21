@@ -4,7 +4,7 @@ International IT student at *Kauno kolegija* (Lithuania), learning to turn probl
 
 ## About me
 
-- 🎓 Studying information technology at Kauno kolegija (2026 intake)
+- 🎓 Studying software systems at Kauno kolegija (2026 intake)
 - 💻 Building my skills in C#, algorithms and data structures
 - 🧩 Interested in system analysis and design
 - 🌍 I speak Bengali and English
